@@ -1,1 +1,1 @@
-{"github_run_id": "42858356342", "nonce": "killrecovery-20261111a", "phase": "STARTING", "request_sha256": "8b42d98b28eff6c83369555143ade3d60a28f1f69b5ddddc3a855150bced5583", "schema_version": 1, "source_sha": "d6e71cf44dc7343d2a1fc59332ec449d6584c0cf"}
+{"github_run_id": "42858356342", "nonce": "killrecovery-20261111a", "phase": "STARTING", "producer_video_inflight": 1, "request_sha256": "8b42d98b28eff6c83369555143ade3d60a28f1f69b5ddddc3a855150bced5583", "schema_version": 1, "source_sha": "d6e71cf44dc7343d2a1fc59332ec449d6584c0cf"}
